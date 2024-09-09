@@ -1,1 +1,3 @@
-# Projeto-Python
+# DiO | Aprendendo Python
+
+Estudo voltado a adquirir conhecimento e habilidades na linguagem de programação Python, uma das linguagens mais populares e versáteis atualmente. Python é conhecida por sua sintaxe clara e legível, o que a torna uma excelente escolha para iniciantes. Com aplicações que vão desde desenvolvimento web e automação até ciência de dados e inteligência artificial, Python oferece uma ampla gama de bibliotecas e frameworks que facilitam o aprendizado e a aplicação prática. O estudo de Python geralmente envolve conceitos básicos de programação, como variáveis, estruturas de controle, funções e manipulação de dados, além de práticas recomendadas e projetos práticos que ajudam a consolidar o aprendizado.
